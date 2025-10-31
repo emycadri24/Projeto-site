@@ -18,3 +18,39 @@ main {
     box-shadow: 3px 3px 5px rgba(18, 17, 17, 0.003);
 
 }
+
+
+
+h1{
+    font-size:2em;
+    color: blueviolet;
+}
+
+
+
+
+
+h2{
+    font-size: 1.5em;
+    color: rgb(13, 27, 133);
+}
+
+img.lado{
+    float: right;
+}
+
+
+
+
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+
+a.hover{
+    text-decoration: underline;
+    color: blue;
+
+}
